@@ -25,8 +25,8 @@
 &kp ESC     &kp N1      &kp N2      &kp N3      &kp N4      &kp N5       &kp N6
 &kp TAB     &kp Q       &kp W       &kp E       &kp R       &kp T        &kp DEL
 &kp CAPS    &kp A       &kp S       &kp D       &kp F       &kp G        &kp RET
-&kp LSHFT   &kp Z       &kp X       &kp C       &kp V       &mo 2
-&kp LCTRL   &mo WIN     &kp LALT    &kp SPACE   &mo 1
+&kp LSHFT   &kp Z       &kp X       &kp C       &kp V       &mo 2        &none
+&kp LCTRL   &mo WIN     &kp LALT    &kp SPACE   &mo 1        &none        &none
             >;
         };
 
